@@ -80,23 +80,7 @@ Include EV charging station data to assess infrastructure readiness.
 
 The study indicates a rapid EV adoption trend in Washington, driven by legislative incentives and Tesla's dominance. With continued government support and infrastructure improvements, the growth is expected to accelerate in the coming years.
 
-EV-Population-Analysis/
-│── README.md  (This file)
-│── EV_Population.pbix  (Power BI Dashboard)
-│── data/
-│   ├── EV_Table.csv  (Dataset)
-│── scripts/
-│   ├── data_cleaning.py
-│   ├── analysis.py
-│── images/
-│   ├── ev_growth_chart.png
-│   ├── county_ev_distribution.png
-│   ├── ev_market_share.png
-│   ├── general_dashboard.png
-│   ├── yoy_growth.png
-│── insights/
-│   ├── EV_Insights_Report.pdf
-│── LICENSE
+
 
 **Connect with Me**
 
