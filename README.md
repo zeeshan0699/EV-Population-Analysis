@@ -20,8 +20,6 @@ Pandas, Matplotlib, Seaborn: For data analysis and visualization
 
 **Key Insights**
 
-Median Year-on-Year (YoY) growth in EVs is 67.57%.
-
 The largest growth occurred in 2011, with a 2904% increase, representing a 29x jump in EV adoption.
 
 Total EVs in Washington: 219,000 registered as of 2024.
@@ -33,18 +31,19 @@ Tesla holds a dominant market share of 51.29%, making it the most popular EV bra
 **Visualizations**
 
 **EV Growth Over the Years**
-
-
+![image](https://github.com/user-attachments/assets/5aaea608-b1dc-445a-93f9-0289a5f2b16d)
 
 **County-wise Distribution**
 
 
 
 **Market Share of Top EV Brands**
+![image](https://github.com/user-attachments/assets/792a94a2-c9aa-4360-a392-4be03d72f3b8)
 
 
 
-**General Dashboard**
+**Dashboard**
+![image](https://github.com/user-attachments/assets/30a14ae7-6d47-4995-9159-669c7152b9b1)
 
 
 
