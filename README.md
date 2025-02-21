@@ -18,6 +18,15 @@ Python: Data preprocessing and statistical analysis
 
 Pandas, Matplotlib, Seaborn: For data analysis and visualization
 
+**Key Focus Areas**
+
+Trend Analysis: Year-on-Year (YoY) growth of EV adoption over time.
+
+Market Share: Identifying top EV manufacturers and their dominance.
+
+Geographical Distribution: Understanding county-wise EV registrations.
+
+
 **Key Insights**
 
 The largest growth occurred in 2011, with a 2904% increase, representing a 29x jump in EV adoption.
@@ -48,6 +57,8 @@ Tesla holds a dominant market share of 51.29%, making it the most popular EV bra
 
 
 **Year-on-Year Growth Percentage**
+
+
 
 **How to Use**
 
