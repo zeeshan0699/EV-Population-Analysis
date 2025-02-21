@@ -41,7 +41,7 @@ Tesla holds a dominant market share of 51.29%, making it the most popular EV bra
 
 
 **Market Share of Top EV Brands**
-
+![imagealt](https://github.com/zeeshan0699/EV-Population-Analysis/blob/main/Top%2010%20Manufacturer.png?raw=true)
 
 
 **General Dashboard**
