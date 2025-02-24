@@ -57,10 +57,20 @@ Tesla dominates the EV market with over 93,000 vehicles, far outpacing competito
 
 ![image](https://github.com/user-attachments/assets/b31f5d77-cdc0-47f2-ae57-27a09d225747)
 
+CAFV Eligibility is a metric used to classify EVs based on whether their battery range and performance meet specific criteria for Clean Alternative Fuel Vehicle status. In our analysis, over 70,000 EVs qualify as eligible—thus able to access related incentives—while about 22,000 do not meet the standards. Notably, a large portion of EVs (approximately 126,000) are labeled as "Eligibility Unknown" due to missing battery data, highlighting a critical gap that calls for further research and data improvement.
+
 
 **Dashboard**
 
 ![image](https://github.com/user-attachments/assets/30a14ae7-6d47-4995-9159-669c7152b9b1)
+page 1
+
+This dashboard offers a comprehensive snapshot of Washington’s EV landscape, breaking down vehicle types, eligibility status, geographic distribution, and manufacturer market share. It also underscores rapid EV growth over time, with the total count reaching around 219,000.
+
+![image](https://github.com/user-attachments/assets/42f5f4c3-84a4-4241-a5fd-982537bba965)
+page 2
+
+Focusing on the top 10 manufacturers, this dashboard offers a concise yet detailed view of EV adoption. It reveals overall growth patterns, popular EV types, and top models, while interactive filters let users explore how factors like location or model preference influence adoption. This makes it easy to identify market dynamics and emerging favorites in the EV market.
 
 
 **How to Use**
