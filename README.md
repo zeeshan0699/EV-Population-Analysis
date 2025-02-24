@@ -98,6 +98,8 @@ The study indicates a rapid EV adoption trend in Washington, driven by legislati
 **Connect with Me**
 
 If you have any suggestions or feedback, feel free to reach out or connect with me on LinkedIn!
+www.linkedin.com/in/zeeshan-furqan-khan1
+zeek.khan06@gmail.com
 
 This repository showcases my skills in data analytics, Power BI, and Python-based analysis. If you find this project insightful, don’t forget to ⭐ star the repo!
 
