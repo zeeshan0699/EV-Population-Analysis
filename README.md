@@ -39,11 +39,15 @@ Tesla holds a dominant market share of 51.29%, making it the most popular EV bra
 
 **Visualizations**
 
+
 **EV Growth Over the Years**
+
 ![image](https://github.com/user-attachments/assets/5aaea608-b1dc-445a-93f9-0289a5f2b16d)
 
+The chart illustrates a significant upward trend in EV registrations over time. Initially, the numbers were modest during the late 1990s and early 2000s, but they began to rise steadily in the 2010s and surged dramatically after 2020. The polynomial trend line emphasizes this accelerating growth, suggesting that if current trends continue, EV adoption will likely keep increasing rapidly.
 
 **Market Share of Top EV Brands**
+
 ![image](https://github.com/user-attachments/assets/792a94a2-c9aa-4360-a392-4be03d72f3b8)
 
 
