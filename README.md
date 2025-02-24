@@ -50,16 +50,17 @@ The chart illustrates a significant upward trend in EV registrations over time. 
 
 ![image](https://github.com/user-attachments/assets/792a94a2-c9aa-4360-a392-4be03d72f3b8)
 
-
-
-**Dashboard**
-![image](https://github.com/user-attachments/assets/30a14ae7-6d47-4995-9159-669c7152b9b1)
-
+Tesla dominates the EV market with over 93,000 vehicles, far outpacing competitors. Mid-tier players like Chevrolet, Nissan, Ford, and Kia each exceed 10,000 vehicles, suggesting a competitive field just behind Tesla. Meanwhile, traditional brands such as Toyota, BMW, Hyundai, Jeep, and Volkswagen have also carved out a place in the top 10, highlighting their growing but still modest inroads into the EV sector
 
 
 **CAFV Eligibility**
+
 ![image](https://github.com/user-attachments/assets/b31f5d77-cdc0-47f2-ae57-27a09d225747)
 
+
+**Dashboard**
+
+![image](https://github.com/user-attachments/assets/30a14ae7-6d47-4995-9159-669c7152b9b1)
 
 
 **How to Use**
