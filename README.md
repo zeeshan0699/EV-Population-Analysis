@@ -56,7 +56,8 @@ Tesla holds a dominant market share of 51.29%, making it the most popular EV bra
 
 
 
-**Year-on-Year Growth Percentage**
+**CAFV Eligibility**
+![image](https://github.com/user-attachments/assets/b31f5d77-cdc0-47f2-ae57-27a09d225747)
 
 
 
