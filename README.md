@@ -75,6 +75,7 @@ page 2
 Focusing on the top 10 manufacturers, this dashboard offers a concise yet detailed view of EV adoption. It reveals overall growth patterns, popular EV types, and top models, while interactive filters let users explore how factors like location or model preference influence adoption. This makes it easy to identify market dynamics and emerging favorites in the EV market.
 
 **Dashboard Highlights**
+
 Created an interactive Power BI dashboard featuring filters, KPIs, and dynamic visuals to explore brand performance, regional distribution, and adoption trends.
 Utilized DAX to build dynamic measures for YoY growth, market share calculations, and CAFV eligibility segmentation, enabling more insightful and customizable reporting. CAFV segmentation was further enhanced using calculated columns and conditional logic within Power BI.
 
