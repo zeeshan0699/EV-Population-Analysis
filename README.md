@@ -62,13 +62,15 @@ CAFV Eligibility is a metric used to classify EVs based on whether their battery
 
 **Dashboard**
 
-![image](https://github.com/user-attachments/assets/dffaccca-0a7e-4d24-9590-5081fa4d6e53)
+![image](https://github.com/user-attachments/assets/2f4bb50b-fe2d-4c40-9abc-eb968df2d101)
 
 page 1
 
 This dashboard offers a comprehensive snapshot of Washington’s EV landscape, breaking down vehicle types, eligibility status, geographic distribution, and manufacturer market share. It also underscores rapid EV growth over time, with the total count reaching around 219,000.
 
-![image](https://github.com/user-attachments/assets/b0fcf4e9-afe8-4ead-92f8-7c92a2322dbb)
+
+![image](https://github.com/user-attachments/assets/8e7c6283-3e71-4a29-81d3-c45269ad226e)
+
 
 page 2
 
