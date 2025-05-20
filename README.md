@@ -35,7 +35,7 @@ Total EVs in Washington: 219,000 registered as of 2024.
 
 King County leads with 110,000 EVs, nearly 50% of the total EV population in the state.
 
-Tesla holds a dominant market share of 51.29%, making it the most popular EV brand in Washington.
+Tesla holds a dominant market share of 43.02%, making it the most popular EV brand in Washington.
 
 **Visualizations**
 
